@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-wikiSearch/static/css/main.12011491.css",
+    "main.js": "/react-hooks-wikiSearch/static/js/main.51d1808f.js",
+    "index.html": "/react-hooks-wikiSearch/index.html",
+    "main.12011491.css.map": "/react-hooks-wikiSearch/static/css/main.12011491.css.map",
+    "main.51d1808f.js.map": "/react-hooks-wikiSearch/static/js/main.51d1808f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12011491.css",
+    "static/js/main.51d1808f.js"
+  ]
+}

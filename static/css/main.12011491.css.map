@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.12011491.css","mappings":"AAAA,KACE,QACF,CCFA,WACE,wBACF,CACA,OACE,UACF","sources":["index.css","App.css"],"sourcesContent":["body {\n  margin: 0;\n}\n\n\n",".container{\n  background-color: rgb(205, 219, 243);\n}\n.label{\n  width: 100%\n}\n"],"names":[],"sourceRoot":""}
